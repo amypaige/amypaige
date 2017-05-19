@@ -412,6 +412,11 @@ li.hvr-underline-from-center:before {
     font-family: "Open Sans", sans-serif;
 }
 
+.logo h1 {
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
 .visible-xs .navbar .logo {
     display: inline;
     margin: 0;
