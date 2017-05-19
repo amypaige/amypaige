@@ -409,7 +409,7 @@ li.hvr-underline-from-center:before {
 }
 
 .logo {
-    font-family: Lato;
+    font-family: "Open Sans", sans-serif;
 }
 
 .visible-xs .navbar .logo {
