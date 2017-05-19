@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"Juristiction"
+			],
+			[
+				"post",
+				"postgress"
+			],
+			[
+				"docker",
+				"docker-entrypoint"
+			],
+			[
+				"tmp",
+				"tmp_rc"
+			],
+			[
+				"pos",
+				"postgresql"
+			],
+			[
+				"dock",
+				"docker-entrypoint"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 22280,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contents/css/customize.css",
+			"settings":
+			{
+				"buffer_size": 13574,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"markdownpre",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 102.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jason/personal/amypaige.co.uk",
+		"/Users/jason/personal/amypaige.co.uk/contents",
+		"/Users/jason/personal/amypaige.co.uk/contents/css"
+	],
+	"file_history":
+	[
+		"/Users/jason/personal/amypaige.co.uk/contents/css/customize.css",
+		"/Users/jason/Documents/MoJ - HMCTS/git/case-definition-store/ccd-case-definition-swagger.yaml",
+		"/Users/jason/Downloads/ccd-case-type-schema-0.1.json",
+		"/Users/jason/Downloads/swagger.yaml",
+		"/Users/jason/Downloads/ccd-case-definition-0.1.json",
+		"/Users/jason/Documents/MoJ - HMCTS/HwF/full-queston-based-api.json",
+		"/Users/jason/Documents/MoJ - HMCTS/HwF/HwF Integration API Design.md",
+		"/Users/jason/Downloads/full-dependency-tree.txt",
+		"/Users/jason/Documents/MoJ - HMCTS/framework approval process.md",
+		"/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSFontManager.h",
+		"/Users/jason/postgresql-poc/docker-compose.yml",
+		"/Users/jason/postgresql-poc/postgresql-master/etc/repmgr.conf",
+		"/Users/jason/postgresql-poc/postgresql-master/root/.ssh/authorized_keys",
+		"/Users/jason/postgresql-poc/postgresql-master/root/.ssh/id_rsa.pub",
+		"/Users/jason/postgresql-poc/postgresql-master/root/.ssh/id_rsa",
+		"/Users/jason/postgresql-poc/postgresql-master/docker-entrypoint-postdbstart.d/create-base-db.sh",
+		"/Users/jason/postgresql-poc/postgresql-master/Dockerfile",
+		"/Users/jason/postgresql-poc/postgresql-slave/docker-entrypoint.sh",
+		"/Users/jason/postgresql-poc/postgresql-slave/Dockerfile",
+		"/Users/jason/postgresql-poc/postgresql-master/docker-entrypoint-initdb.d/master-init.sql",
+		"/Users/jason/postgresql-poc/postgresql-slave/docker-entrypoint-initdb.d/slave-init.sh",
+		"/Users/jason/postgresql-poc/postgresql-master/docker-entrypoint-initdb.d/master-init.sh",
+		"/Users/jason/postgresql-poc/postgresql-master/docker-entrypoint.sh",
+		"/Users/jason/Downloads/LICENCE.md",
+		"/Users/jason/postgresql-poc/postgresql-master/docker.entrypoint.sh",
+		"/Users/jason/postgresql-poc/postgresql-master/docker-entrypoint-initdb.d/master.conf"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text-uppercase",
+			"upper",
+			"uppder",
+			"cap",
+			"BtnMobilMenu",
+			"logo",
+			"_event",
+			"Case_Event",
+			"CaseEvent",
+			"defintion",
+			"CaseType",
+			"juristiction_id",
+			"CaseField",
+			"type: object",
+			"type: \"",
+			"enumeration",
+			"enum",
+			"ju",
+			"state",
+			"ju",
+			"version",
+			"field",
+			"enumeration",
+			"\n        ",
+			"\\n\\n",
+			"\\n\\n\\n",
+			"\\n\\n",
+			"salad",
+			"2 tsp mixed herbs optional",
+			"mixed her",
+			"honey",
+			"potato",
+			"chopp",
+			"spring",
+			"coriander",
+			"pump",
+			"mushroom",
+			"mush",
+			"mushrooms",
+			"mince",
+			"egg",
+			"honey",
+			"cumin",
+			"coriander",
+			"stock cube",
+			"garlic clove",
+			"garlic",
+			"onion",
+			"turkey",
+			"- ",
+			"cottage cheese",
+			"coconut water",
+			"apple",
+			"cinnamon",
+			"apple",
+			"Spinach",
+			"spinach",
+			"almond butter",
+			"oats",
+			"cinnamon",
+			"coconut",
+			"soya milk",
+			"coconut oil",
+			"avocado",
+			"coconut oil",
+			"avoca",
+			"avocado",
+			"raspberries",
+			"lime",
+			"flax",
+			"sunflower",
+			"pumpkin seeds",
+			"greek",
+			"Greek yoghurt",
+			"sunflower seeds",
+			"almonds",
+			"sliced almonds",
+			"cinnamon",
+			"puffed rice",
+			"oats",
+			"coconut oil",
+			"apple juice",
+			"pineapple juice",
+			"- ",
+			"almond milk",
+			"coconut milk",
+			"almond",
+			"- ",
+			"55g",
+			"- ",
+			"##",
+			"Costs",
+			"pg_bindir",
+			"use_replication_slots",
+			"port",
+			"trust",
+			"`",
+			"/",
+			"initdb",
+			"font",
+			"front"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1351,
+								1351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 175.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "contents/css/customize.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8613,
+								8613
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8913.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "amypaige.co.uk.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
