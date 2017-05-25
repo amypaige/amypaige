@@ -613,6 +613,7 @@ a:focus {
 
 .cbp-l-project-details-list strong {
     color: #555;
+    padding-right: 5px;
 }
 
 .cbp-l-project-subtitle {
